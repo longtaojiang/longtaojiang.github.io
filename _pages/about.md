@@ -63,7 +63,7 @@ My research interests include computer vision, multimodal retrieval, image gener
  A medical intelligent drug delivery robot system based on embedded system is designed. The staff can give the house number room that the robot should distribute at the initial pharmacy location. After the automatic detection of drug cargo loading, the robot will complete a series of distribution tasks, including drug delivery ward house number identification, path planning, parking and unloading. The system takes STM32 high-performance ARM chip as the control core, carries k210 embedded platform with KPU neural network arithmetic unit for house number recognition, and carries out machine vision tracking through openmv open source hardware. It can accurately complete its own drug distribution task in complex medical environment. Through the experimental test of the system, the robot runs efficiently and stably, and has certain popularization value. 
 
 </div>
-</div> -->
+</div>
 
 <!-- - <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> [**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)<br>
 Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2) -->
