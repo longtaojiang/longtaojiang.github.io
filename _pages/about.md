@@ -35,10 +35,7 @@ My research interests include computer vision, multimodal retrieval, image gener
 <div class='paper-box-text' markdown="1"> -->
 - *2023.01 - 2023.06*, [Alibaba, Quark Search Department](https://ali-home.alibaba.com/about-alibaba-businesses-1496656660737818624), Hangzhou.
 
-
-# 📝 Publications 
-
-## 📃 Papers
+# 📃 Papers
 
 <!-- Paper -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/publications/acmmm24.png' alt="sym" width="100%"></div></div>
@@ -55,37 +52,27 @@ My research interests include computer vision, multimodal retrieval, image gener
 </div>
 
 <!-- Paper -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robotics and Autonomous Systems</div><img src='images/publications/202309_A_study_of_robotic_search_strategy_for_multi-radiation_sources_in_unknown_environments.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">computer measurement and control</div><img src='images/publications/littlecar_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**A study of robotic search strategy for multi-radiation sources in unknown environments**](https://doi.org/10.1016/j.robot.2023.104529)
+[**Design and Research of Intelligent Drug Delivery Robot System Based on ARM and Machine Vision**](https://www.nstl.gov.cn/paper_detail.html?id=c96622f8c2e6a3f659511a01787e825a)
 
-Hua Bai, Wenrui Gao, **Haofei Ma**, Pengchao Ding, Gongcheng Wang, Wenda Xu, Weidong Wang, Zhijiang Du
+**Longtao Jiang**, Yipei Liu, Zhuo Zhang
 
-[**Paper**](https://doi.org/10.1016/j.robot.2023.104529)
-- A robot search strategy is proposed and evaluated for unknown radiation environments.
-- Combine ADE optimization with the PSPF algorithm to improve estimation efficiency.
-- An exploration scheme is proposed to balance exploration and exploitation.
+[**abstract**](https://www.nstl.gov.cn/paper_detail.html?id=c96622f8c2e6a3f659511a01787e825a)
+ In view of the shortage of human resources in COVID-19, the high risk of medical staff and the need for automation of medical distribution service system. A medical intelligent drug delivery robot system based on embedded system is designed. The staff can give the house number room that the robot should distribute at the initial pharmacy location. After the automatic detection of drug cargo loading, the robot will complete a series of distribution tasks, including drug delivery ward house number identification, path planning, parking and unloading. The system takes stm32f407igt6 high-performance ARM chip as the control core, carries k210 embedded platform with KPU neural network arithmetic unit for house number recognition, and carries out machine vision tracking through openmv open source hardware. It can accurately complete its own drug distribution task in complex medical environment. Through the experimental test of the system, the robot runs efficiently and stably, and has certain popularization value. 
 
 </div>
 </div> -->
 
 <!-- - <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> [**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)<br>
-Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2) -->
-
-## 📚 Patents
-
-- <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**An Intelligent Vehicle System Based on Electromagnetic Positioning**](https://xueshu.baidu.com/usercenter/paper/show?paperid=1a4w0r20cd1p08708x0k0r00e5163321&site=xueshu_se), **Longtao Jiang**, Zhiheng Zeng, Yipei Liu (CN202111388699.X)
-
-- <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A vehicle positioning system based on electromagnetic waves**](https://xueshu.baidu.com/usercenter/paper/show?paperid=1s3y0v80hm7w0jc06p3t0r00sc563453&site=xueshu_se), Yipei Liu, **Longtao Jiang**, Zhiheng Zeng (CN202210222945.2)
-
-- <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A machine vision based autonomous tracking intelligent vehicle**](https://xueshu.baidu.com/usercenter/paper/show?paperid=174a0ej0uy7x0xf0820b0ms01b755398&site=xueshu_se), Zhiheng Zeng, Yipei Liu, **Longtao Jiang**, Zhaowen Chen (CN202111286807.2)
+Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2)
 
 # 🔍 Projects
 
 <!-- Project -->
 
-## Pre training of web page understanding based on document multimodal big language model
+## Pre-Training of Web Page Understanding Based on Document Multimodal Large Language Model
 
 <div class='paper-box'>
 <div class='paper-box-image'>
@@ -103,34 +90,28 @@ The existing document understanding and pre training in the industry focuses mor
 
 <!-- Project -->
 
-## Medical Pan-Tilt Control System Based on Binocular Vision
+## Intelligent Delivery Robot Based on Machine Vision
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div class="badge">2022.01 - 2022.06</div>
-<img src='images/projects/202201_Medical_Multi-DoF_Pan-Tilt_Control_System_Based_on_Binocular_Vision.jpg' alt="sym" width="100%">
+<div class="badge">2022.08 - 2022.12</div>
+<img src='images/projects/littlecar.png' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
-In traditional medical processes, traditional Chinese medicine practitioners often need to frequently change positions and adjust their angles to view the surgical area. Additionally, during rehabilitation treatment, the camera's range can be inadequate to cover the patient's moving area. Current recording methods commonly used suffer from limitations and lack automation. This article introduces a multi-degree-of-freedom pan-tilt system designed to track the positions of doctors and patients.
-
-[**Project**](https://github.com/HaofeiMa/Multi-DOF_PTZ), [**Video**](https://www.youtube.com/watch?v=gDLijtdpC2w)
-
-</div><div markdown="1">
-
-**Finished Works**:
-1. Design the mechanical structure and simulate the platform's motion, using internal toothed rotary bearings to minimize the structural size. Protective structures have been designed for all sensor components.
-
-2. Design hardware control algorithms for pan-tilt using STM32 and A4988 drivers, and establish communication between STM32 and the host computer's ROS system for pan-tilt motion control within ROS.
-
-3. Propose a target tracking method based on HOG and SIFT feature matching, capable of short-term single target tracking while maintaining robustness to changes in the target object's appearance.
-
-4. Construct an experimental Pan-Tilt system and conduct experiments with all proposed algorithms, using 3D printed structural components, a Realsense camera, and stepper motors.
+In view of the current shortage of human resources under the COVID-19 epidemic, the high risk of medical personnel, and the demand for the automation of the medical distribution service system. A medical intelligent delivery robot system based on embedded technology has been designed. The staff can provide the door number room that the robot should deliver at the initial pharmacy location. After automatic detection of drug cargo loading, the robot will complete a series of delivery tasks including identifying the door number of the delivery ward, path planning, parking and unloading. The system uses the STM32F407IGT6 high-performance ARM chip as the control core and is equipped with the K210 embedded platform with KPU neural network operator for house number recognition. It uses OPENMV4Plus open-source hardware for machine vision tracking and can accurately complete its own delivery tasks in complex industrial environments. Through systematic experimental testing, the robot runs efficiently and stably, and has certain promotional value.
 
 </div>
 </div>
 
+# 📚 Patents
 
+- <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**An Intelligent Vehicle System Based on Electromagnetic Positioning**](https://xueshu.baidu.com/usercenter/paper/show?paperid=1a4w0r20cd1p08708x0k0r00e5163321&site=xueshu_se), **Longtao Jiang**, Zhiheng Zeng, Yipei Liu (CN202111388699.X)
+
+- <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A vehicle positioning system based on electromagnetic waves**](https://xueshu.baidu.com/usercenter/paper/show?paperid=1s3y0v80hm7w0jc06p3t0r00sc563453&site=xueshu_se), Yipei Liu, **Longtao Jiang**, Zhiheng Zeng (CN202210222945.2)
+
+- <code class="language-plaintext highlighter-rouge">Invention Patent</code> [**A machine vision based autonomous tracking intelligent vehicle**](https://xueshu.baidu.com/usercenter/paper/show?paperid=174a0ej0uy7x0xf0820b0ms01b755398&site=xueshu_se), Zhiheng Zeng, Yipei Liu, **Longtao Jiang**, Zhaowen Chen (CN202111286807.2)
+- 
 
 # 📝 Academic Services
 - ACM Multimedia (ACMMM) 2024, Reviewer
