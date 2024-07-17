@@ -28,11 +28,11 @@ My research interests include computer vision, multimodal retrieval, image gener
 - *2019.09 - 2023.06*, [Hohai University](http://www.hhu.edu.cn/), Nanjing, (GPA: 4.96/5.0, rank: 1/125).
 
 # 💻 Internships
-<div class='paper-box'>
+<!-- <div class='paper-box'>
 <div class='paper-box-image'>
 <img src='images/alibaba.png' alt="sym" width="100%">
 </div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> -->
 - *2023.01 - 2023.06*, [Alibaba, Quark Search Department](https://ali-home.alibaba.com/about-alibaba-businesses-1496656660737818624), Hangzhou.
 
 
@@ -85,25 +85,18 @@ Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijian
 
 <!-- Project -->
 
-## Rock Core Box Handling Robot
+## Pre training of web page understanding based on document multimodal big language model
 
 <div class='paper-box'>
 <div class='paper-box-image'>
-<div class="badge">2022.08 - 2023.02</div>
-<img src='images/projects/202208_Rock_Core_Box_Handling_Robot.jpg' alt="sym" width="100%">
+<div class="badge">2023.01 - 2023.06</div>
+<img src='images/projects/kuake.jpg' alt="sym" width="100%">
 </div>
 <div class='paper-box-text' markdown="1">
 
-Rock Core samples obtained from drilling before oil extraction are crucial data for assessing mining value, and they are stored in dedicated core boxes. During research and analysis, it's essential to arrange these rock core boxes neatly on-site in a designated order, one box at a time. However, these boxes are typically heavy, resulting in a high labor intensity that can impact transportation efficiency. The present invention aims to address the labor intensity associated with the current method of transporting core boxes, ultimately improving transportation efficiency.
-
-</div><div markdown="1">
-
-**Finished Works**:
-1. Build a sensing system that utilizes infrared sensors to detect surrounding obstacles, as well as fractional laser sensors to detect the current stacking height and alignment.
-
-2. Implement rock core box instance segmentation based on Mask RCNN, combined with a depth camera to determine its corner space coordinates for visual servo during the robot handling process.
-
-3. Utilize a monocular camera and Aruco markers to achieve 2D pose adjustment of the robot in place by identifying the offset distance and angle of the Aruco marker.
+Pre training has been successfully applied in NLP, CV, and multimodal fields. In recent years, a series of document pre training models represented by Microsoft LayoutLM have also achieved significant results in document understanding tasks.
+The Quark Vertical Innovation Team is responsible for solving the problem of document multimodal understanding in library type documents and web-based documents. The task of understanding web-based documents includes layout classification, page experience, semantic segmentation, node extraction, etc; The task of understanding library type documents includes layout classification, layout experience, domain categories, title extraction, etc. The two are very similar in terms of multimodal model structure and downstream analysis and understanding tasks. This article mainly introduces the team's exploration results of multimodal pre training on web-based documents.
+The existing document understanding and pre training in the industry focuses more on library type document data (PDF/DOC) in the form of information sheets, reports, contracts, resumes, and other forms. As a special form of document data (HTML), web pages currently do not have targeted pre training adaptation and design. Quark explored modal document pre training techniques suitable for web-based data based on its own search engine's massive web page data, and achieved significant improvements in downstream tasks of analyzing and understanding multiple web pages.
 
 </div>
 </div>
@@ -137,7 +130,7 @@ In traditional medical processes, traditional Chinese medicine practitioners oft
 </div>
 </div>
 
-<!-- Project -->
+
 
 # 📝 Academic Services
 - ACM Multimedia (ACMMM) 2024, Reviewer
