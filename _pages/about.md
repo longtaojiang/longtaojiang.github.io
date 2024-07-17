@@ -117,9 +117,7 @@ In view of the current shortage of human resources under the COVID-19 epidemic, 
 - ACM Multimedia (ACMMM) 2024, Reviewer
 - Conference on Neural Information Processing Systems (NeurIPS) 2024, Reviewer
 
-# 🏆 Honors and Awards
-
-## 🏅 Honors
+# 🏅 Honors
 - *2023.12*, First Class Master's Scholarship from USTC
 - *2023.09*, Outstanding Graduate of Hohai University (Top 1%)
 - *2023.02*, Xiaomi Scholarship Special Prize (Top 1%)
@@ -128,7 +126,7 @@ In view of the current shortage of human resources under the COVID-19 epidemic, 
 - *2020.12*, Excellent Student Model in Hohai University
 - *2020.09*, The First Prize Scholarship in Hohai University
 
-## 🎏 Competitions
+# 🏆 Competitions
 - *2020.09*, Third Prize in the National College Student Intelligent Car Competition.
 - *2022.12*, Blue Bridge Cup Software Design Competition National Third Prize.
 - *2022.09*, National Second Prize in the National College Student Electronic Design Competition.
