@@ -66,11 +66,9 @@ My research interests include computer vision, multimodal retrieval, image gener
 </div> -->
 
 <!-- - <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> [**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)<br>
-Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2)
+Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2) -->
 
 # 🔍 Projects
-
-<!-- Project -->
 
 ## Pre-Training of Web Page Understanding Based on Document Multimodal Large Language Model
 
