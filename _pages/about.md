@@ -46,13 +46,18 @@ My research interests include computer vision, multimodal retrieval, image gener
 **Longtao Jiang**, Min Wang, Zecheng Li, Yao Fang, Wengang Zhou, Houqiang Li
 
 [**abstract**](https://arxiv.org/abs/2303.12793)
-  Sign language retrieval is biased towards understanding the semantic information of human actions contained in video clips. Previous works typically only encode RGB videos to obtain high-level semantic features, resulting in local action details drowned in a large amount of visual information redundancy. We propose a novel sign language representation framework called Semantically Enhanced Dual-Stream Encoder (SEDS), which integrates Pose and RGB modalities to represent the local and global information of sign language videos. Specifically, the Pose encoder embeds the coordinates of keypoints corresponding to human joints, effectively capturing detailed action features. For better context-aware fusion of two video modalities, we also propose a Cross Gloss Attention Fusion (CGAF) module to aggregate the adjacent clip features with similar semantic information from intra-modality and inter-modality. Moreover, a Pose-RGB Fine-grained Matching Objective is developed to enhance the aggregated fusion feature by contextual matching of fine-grained dual-stream features.
+  - Sign language retrieval, as an emerging visual-language task, has received widespread attention. 
+  - Different from traditional video retrieval, it is more biased towards understanding the semantic information of human actions contained in video clips.
+  - We propose a novel sign language representation framework called Semantically Enhanced Dual-Stream Encoder (SEDS), which integrates Pose and RGB modalities to represent the local and global information of sign language videos.
+  - We also propose a Cross Gloss Attention Fusion (CGAF) module to aggregate the adjacent clip features with similar semantic information from intra-modality and inter-modality. 
+  - Moreover, a Pose-RGB Fine-grained Matching Objective is developed to enhance the aggregated fusion feature by contextual matching of fine-grained dual-stream features.
 
 </div>
 </div>
 
 <!-- Paper -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">computer measurement and control</div><img src='images/publications/littlecar_paper.png' alt="sym" width="100%"></div></div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">computer measurement and control</div><img src='images/publications/littlecar_paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Design and Research of Intelligent Drug Delivery Robot System Based on ARM and Machine Vision**](https://www.nstl.gov.cn/paper_detail.html?id=c96622f8c2e6a3f659511a01787e825a)
@@ -63,7 +68,7 @@ My research interests include computer vision, multimodal retrieval, image gener
  A medical intelligent drug delivery robot system based on embedded system is designed. The staff can give the house number room that the robot should distribute at the initial pharmacy location. After the automatic detection of drug cargo loading, the robot will complete a series of distribution tasks, including drug delivery ward house number identification, path planning, parking and unloading. The system takes STM32 high-performance ARM chip as the control core, carries k210 embedded platform with KPU neural network arithmetic unit for house number recognition, and carries out machine vision tracking through openmv open source hardware. It can accurately complete its own drug distribution task in complex medical environment. Through the experimental test of the system, the robot runs efficiently and stably, and has certain popularization value. 
 
 </div>
-</div>
+</div> -->
 
 <!-- - <code class="language-plaintext highlighter-rouge">IEEE Sensors Journal</code> [**Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking**](https://doi.org/10.1109/JSEN.2024.3364701)<br>
 Zhiyu Xia, Han Wang, Yulong Men, **Haofei Ma**, Zexin Cao, Weidong Wang, Zhijiang Du, "Kalman Filter-based EM-optical Sensor Fusion for Bone Needle Position Tracking." IEEE Sensors Journal, 2024. (SCI-Q2) -->
