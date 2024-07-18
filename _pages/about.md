@@ -125,9 +125,9 @@ In view of the current shortage of human resources under the COVID-19 epidemic, 
 - *2020.09*, The First Prize Scholarship in Hohai University
 
 # 🏆 Competitions
-- *2020.09*, Third Prize in the National College Student Intelligent Car Competition.
-- *2022.12*, Blue Bridge Cup Software Design Competition National Third Prize.
-- *2022.09*, National Second Prize in the National College Student Electronic Design Competition.
+- *2022.12*, National Second Prize in the National College Student Electronic Design Competition.
+- *2022.09*, Blue Bridge Cup Software Design Competition National Third Prize.
+- *2021.09*, Third Prize in the National College Student Intelligent Car Competition.
 
 # 💼 Societies
 - *2023.09 - 2024.07 (now)*, Leader of Multimodal Generation Group of Microsoft Multimedia Computing and Communication State Key Laboratory.
