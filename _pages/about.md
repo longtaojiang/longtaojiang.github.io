@@ -46,11 +46,8 @@ My research interests include computer vision, multimodal retrieval, image gener
 **Longtao Jiang**, Min Wang, Zecheng Li, Yao Fang, Wengang Zhou, Houqiang Li
 
 [**abstract**](https://arxiv.org/abs/2303.12793)
-  - Sign language retrieval, as an emerging visual-language task, has received widespread attention. 
-  - Different from traditional video retrieval, it is more biased towards understanding the semantic information of human actions contained in video clips.
-  - We propose a novel sign language representation framework called Semantically Enhanced Dual-Stream Encoder (SEDS), which integrates Pose and RGB modalities to represent the local and global information of sign language videos.
-  - We also propose a Cross Gloss Attention Fusion (CGAF) module to aggregate the adjacent clip features with similar semantic information from intra-modality and inter-modality. 
-  - Moreover, a Pose-RGB Fine-grained Matching Objective is developed to enhance the aggregated fusion feature by contextual matching of fine-grained dual-stream features.
+  - Sign language video retrieval, as an emerging visual-language task, is more biased towards understanding the semantic information of human actions contained in video clips.
+  - We propose a novel representation framework called Semantically Enhanced Dual-Stream Encoder (SEDS), which integrates Pose and RGB modalities to represent local and global information of sign language videos.
 
 </div>
 </div>
