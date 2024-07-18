@@ -21,7 +21,7 @@ I am now a master student in the National Key Microsoft Key Laboratory of Multim
 
 I graduated from School of [College of Information Science and Engineering](https://ise.hhu.edu.cn/), [Hohai University](http://www.hhu.edu.cn/) (河海大学信息科学与工程学院) with a bachelor’s degree. Now, I'm pursuing my master’s degree in the [School of Information Science and Technology](https://sist.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/) (中国科学技术大学信息科学技术学院), advised by [Wengang Zhou](http://staff.ustc.edu.cn/~zhwg/) (周文罡) and [Houqiang Li](http://staff.ustc.edu.cn/~lihq/) (李厚强).
 
-My research interests include computer vision, multimodal retrieval, image generation and editing, and multimodal prediction models.
+My research interests include computer vision, multimodal retrieval, image generation and editing, and multimodal large language models for document understanding.
 
 # 📖 Educations
 - *2023.09 - 2024.07 (now)*, [University of Science and Technology of China](https://www.ustc.edu.cn/), Heifei, (GPA: 3.92/4.0, rank: 5/112).
