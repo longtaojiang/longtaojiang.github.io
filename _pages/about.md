@@ -41,11 +41,11 @@ My research interests include computer vision, multimodal retrieval, image gener
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/publications/acmmm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval**](https://arxiv.org/abs/2303.12793)
+[**SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval**](https://arxiv.org/abs/2407.16394)
 
 **Longtao Jiang**, Min Wang, Zecheng Li, Yao Fang, Wengang Zhou, Houqiang Li
 
-[**abstract**](https://arxiv.org/abs/2303.12793)
+[**abstract**](https://arxiv.org/abs/2407.16394)
   - Sign language video retrieval, as an emerging visual-language task, is more biased towards understanding the semantic information of human actions contained in video clips.
   - We propose a novel representation framework called Semantically Enhanced Dual-Stream Encoder (SEDS), which integrates Pose and RGB modalities to represent local and global information of sign language videos.
 
