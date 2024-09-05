@@ -19,7 +19,7 @@ redirect_from:
 
 I am now a master student in the National Key Microsoft Key Laboratory of Multimedia Computing and Communication of [University of Science and Technology of China](https://www.ustc.edu.cn/), mainly interested in 2D diffusion generation, multimedia retrieval.
 
-I graduated from School of [College of Information Science and Engineering](https://ise.hhu.edu.cn/), [Hohai University](http://www.hhu.edu.cn/) (河海大学信息科学与工程学院) with a bachelor’s degree. Now, I'm pursuing my master’s degree in the [School of Information Science and Technology](https://sist.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/) (中国科学技术大学信息科学技术学院), advised by [Wengang Zhou](http://staff.ustc.edu.cn/~zhwg/) (周文罡) and [Houqiang Li](http://staff.ustc.edu.cn/~lihq/) (李厚强).
+I graduated from School of [College of Information Science and Engineering](https://ise.hhu.edu.cn/), [Hohai University](http://www.hhu.edu.cn/) (河海大学信息科学与工程学院) with a bachelor’s degree. Now, I'm pursuing my master’s degree in the [School of Information Science and Technology](https://sist.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/) (中国科学技术大学信息科学技术学院), supervised by [Wengang Zhou](http://staff.ustc.edu.cn/~zhwg/) (周文罡) and [Houqiang Li](http://staff.ustc.edu.cn/~lihq/) (李厚强).
 
 My research interests include computer vision, multimodal retrieval, 2D generation and editing.
 
