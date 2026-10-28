@@ -36,9 +36,25 @@ My research interests include visual content generation, multimedia understandin
 
 # 📖 Educations
 
-- *2026.09 - Now*, Ph.D. in Computer Vision, [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), Abu Dhabi, UAE.
-- *2023.09 - 2026.06*, M.E. in Information and Communication Engineering, [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, Anhui, China.
-- *2019.09 - 2023.06*, B.E., [Hohai University](http://www.hhu.edu.cn/), Nanjing, Jiangsu, China.
+<div class='org-list' markdown='1'>
+
+- <img class='org-logo' src='images/logos/mbzuai.png' alt='MBZUAI'> *2026.09 - Now*, Ph.D. in Computer Vision, [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), Abu Dhabi, UAE.
+- <img class='org-logo' src='images/logos/ustc.png' alt='USTC'> *2023.09 - 2026.06*, M.E. in Information and Communication Engineering, [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, Anhui, China.
+- <img class='org-logo' src='images/logos/hohai.png' alt='Hohai University'> *2019.09 - 2023.06*, B.E., [Hohai University](http://www.hhu.edu.cn/), Nanjing, Jiangsu, China.
+
+</div>
+
+<span class='anchor' id='internships'></span>
+
+# 💻 Internships
+
+<div class='org-list' markdown='1'>
+
+- <img class='org-logo' src='images/logos/kuaishou.png' alt='Kuaishou'> *2025.09 - Now*, [Kling AI Research, Kuaishou Technology](https://www.kuaishou.com/), Beijing.
+- <img class='org-logo' src='images/logos/microsoft.svg' alt='Microsoft'> *2024.08 - 2025.02*, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing.
+- <img class='org-logo' src='images/logos/alibaba.png' alt='Alibaba'> *2023.01 - 2023.06*, [Alibaba, Quark Search Department](https://ali-home.alibaba.com/about-alibaba-businesses-1496656660737818624), Hangzhou.
+
+</div>
 
 <span class='anchor' id='publications'></span>
 
@@ -119,14 +135,6 @@ Xiangchen Yin, Zhenda Yu, **Longtao Jiang**, Xin Gao, Xiao Sun, Zhi Liu, Xun Yan
 
 </div>
 </div>
-
-<span class='anchor' id='internships'></span>
-
-# 💻 Internships
-
-- *2025.09 - Now*, [Kling AI Research, Kuaishou Technology](https://www.kuaishou.com/), Beijing.
-- *2024.08 - 2025.02*, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing.
-- *2023.01 - 2023.06*, [Alibaba, Quark Search Department](https://ali-home.alibaba.com/about-alibaba-businesses-1496656660737818624), Hangzhou.
 
 <span class='anchor' id='academic-services'></span>
 
