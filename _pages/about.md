@@ -81,7 +81,7 @@ My research interests include visual content generation, multimedia understandin
 
 **Longtao Jiang**, Zhendong Wang, Jianmin Bao, Wengang Zhou, Dong Chen, Houqiang Li
 
-<a class="pub-btn" href="https://arxiv.org/abs/2501.08279">arXiv</a> <a class="pub-btn" href="https://longtaojiang.github.io/smarteraser.github.io/">Project</a>
+<a class="pub-btn" href="https://arxiv.org/abs/2501.08279">arXiv</a> <a class="pub-btn" href="https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_SmartEraser_Remove_Anything_from_Images_using_Masked-Region_Guidance_CVPR_2025_paper.html">Paper</a> <a class="pub-btn" href="https://github.com/longtaojiang/SmartEraser">Code</a>
 
 - We introduce SmartEraser, built with a new "removing" paradigm called Masked-Region Guidance.
 - The paradigm guides the model to accurately identify the object to be removed, preventing its regeneration in the output.
@@ -97,7 +97,7 @@ My research interests include visual content generation, multimedia understandin
 
 Xiangchen Yin, Zhenda Yu, **Longtao Jiang**, Xin Gao, Xiao Sun, Zhi Liu, Xun Yang
 
-<a class="pub-btn" href="https://arxiv.org/abs/2504.15054">arXiv</a>
+<a class="pub-btn" href="https://arxiv.org/abs/2504.15054">arXiv</a> <a class="pub-btn" href="https://doi.org/10.1109/TMM.2025.3613117">Paper</a>
 
 - We introduce DiT into the low-light enhancement task and design a novel Structure-guided Diffusion Transformer based Low-light image enhancement (SDTL) framework.
 - Extensive qualitative and quantitative experiments demonstrate that our method achieves SOTA performance on several popular datasets.
@@ -112,7 +112,7 @@ Xiangchen Yin, Zhenda Yu, **Longtao Jiang**, Xin Gao, Xiao Sun, Zhi Liu, Xun Yan
 
 **Longtao Jiang**, Min Wang, Zecheng Li, Yao Fang, Wengang Zhou, Houqiang Li
 
-<a class="pub-btn" href="https://arxiv.org/abs/2407.16394">arXiv</a> <a class="pub-btn" href="https://github.com/longtaojiang/SEDS">Code</a>
+<a class="pub-btn" href="https://arxiv.org/abs/2407.16394">arXiv</a> <a class="pub-btn" href="https://doi.org/10.1145/3664647.3681237">Paper</a> <a class="pub-btn" href="https://github.com/longtaojiang/SEDS">Code</a>
 
 - We propose a novel representation framework called Semantically Enhanced Dual-Stream Encoder (SEDS), which aggregates Pose and RGB modalities to represent local and global information of sign language videos.
 - The aggregated clip-level video features are fed into the CLIP vision encoder for interaction, and matched with the word-level text features embedded using the CLIP text encoder.
