@@ -14,7 +14,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Vision at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), supervised by [Prof. Xiaojun Chang](https://www.xiaojun.ai/).
 Before this, I received my master's degree in Information and Communication Engineering from the [School of Information Science and Technology](https://sist.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2026, also supervised by [Prof. Xiaojun Chang](https://www.xiaojun.ai/),
-and my bachelor's degree from the [College of Information Science and Engineering](https://ise.hhu.edu.cn/), [Hohai University](http://www.hhu.edu.cn/) in 2023.
+and my bachelor's degree in Communication Engineering from the [College of Information Science and Engineering](https://ise.hhu.edu.cn/), [Hohai University](http://www.hhu.edu.cn/) in 2023.
 
 My research interests include visual content generation, multimedia understanding and alignment.
 
@@ -40,7 +40,7 @@ My research interests include visual content generation, multimedia understandin
 
 - <img class='org-logo' src='images/logos/mbzuai.png' alt='MBZUAI'> *2026.09 - Now*, Ph.D. in Computer Vision, [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), Abu Dhabi, UAE.
 - <img class='org-logo' src='images/logos/ustc.png' alt='USTC'> *2023.09 - 2026.06*, M.E. in Information and Communication Engineering, [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, Anhui, China.
-- <img class='org-logo' src='images/logos/hohai.png' alt='Hohai University'> *2019.09 - 2023.06*, B.E., [Hohai University](http://www.hhu.edu.cn/), Nanjing, Jiangsu, China.
+- <img class='org-logo' src='images/logos/hohai.png' alt='Hohai University'> *2019.09 - 2023.06*, B.E. in Communication Engineering, [Hohai University](http://www.hhu.edu.cn/), Nanjing, Jiangsu, China.
 
 </div>
 
