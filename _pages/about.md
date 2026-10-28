@@ -50,9 +50,9 @@ My research interests include visual content generation, multimedia understandin
 
 <div class='org-list' markdown='1'>
 
-- <img class='org-logo' src='images/logos/kuaishou.png' alt='Kuaishou'> *2025.09 - Now*, [Kling AI Research, Kuaishou Technology](https://www.kuaishou.com/), Beijing.
-- <img class='org-logo' src='images/logos/microsoft.svg' alt='Microsoft'> *2024.08 - 2025.02*, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing.
-- <img class='org-logo' src='images/logos/alibaba.png' alt='Alibaba'> *2023.01 - 2023.06*, [Alibaba, Quark Search Department](https://ali-home.alibaba.com/about-alibaba-businesses-1496656660737818624), Hangzhou.
+- <img class='org-logo' src='images/logos/kuaishou.png' alt='Kuaishou'> *2025.09 - Now*, [Kling AI Research, Kuaishou Technology](https://www.kuaishou.com/), Beijing, China.
+- <img class='org-logo' src='images/logos/microsoft.svg' alt='Microsoft'> *2024.08 - 2025.02*, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
+- <img class='org-logo' src='images/logos/alibaba.png' alt='Alibaba'> *2023.01 - 2023.06*, [Alibaba, Quark Search Department](https://ali-home.alibaba.com/about-alibaba-businesses-1496656660737818624), Hangzhou, Zhejiang, China.
 
 </div>
 
