@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Longtao Jiang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Ph.D. Student @ MBZUAI"
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DRWVidUAAAAJ"
-  email            : "taotao707@mail.ustc.edu"
+  email            : "Longtao.Jiang@mbzuai.ac.ae"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -18,26 +18,70 @@ and my bachelor's degree from the [College of Information Science and Engineerin
 
 My research interests include visual content generation, multimedia understanding and alignment.
 
+<span class='anchor' id='news'></span>
+
+# 🔥 News
+
+- *2026.09*: 🎓 Joined [MBZUAI](https://mbzuai.ac.ae/) as a Ph.D. student, supervised by [Prof. Xiaojun Chang](https://www.xiaojun.ai/).
+- *2026.06*: 🎓 Received my M.E. degree from [USTC](https://www.ustc.edu.cn/).
+- *2026.05*: 📝 [SRC-Flow](https://arxiv.org/abs/2605.18267) is released on arXiv.
+- *2025.11*: 🎉 [Token Painter](https://arxiv.org/abs/2509.23919) is accepted by AAAI 2026.
+- *2025.09*: 💼 Joined [Kling AI Research, Kuaishou Technology](https://www.kuaishou.com/) as a research intern.
+- *2025.04*: 🎉 [SDTL](https://arxiv.org/abs/2504.15054) is accepted by IEEE TMM.
+- *2025.02*: 🎉 [SmartEraser](https://arxiv.org/abs/2501.08279) is accepted by CVPR 2025.
+- *2024.08*: 💼 Joined [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) as a research intern.
+- *2024.07*: 🎉 [SEDS](https://arxiv.org/abs/2407.16394) is accepted by ACM MM 2024.
+
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
 
-- *2026.09 - Now*, Ph.D. in Computer Vision, [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), Abu Dhabi.
-- *2023.09 - 2026.06*, M.E. in Information and Communication Engineering, [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, (GPA: 3.92/4.0, rank: 5/112).
-- *2019.09 - 2023.06*, B.E., [Hohai University](http://www.hhu.edu.cn/), Nanjing, (GPA: 4.96/5.0, rank: 1/125).
+- *2026.09 - Now*, Ph.D. in Computer Vision, [Mohamed bin Zayed University of Artificial Intelligence](https://mbzuai.ac.ae/), Abu Dhabi, UAE.
+- *2023.09 - 2026.06*, M.E. in Information and Communication Engineering, [University of Science and Technology of China](https://www.ustc.edu.cn/), Hefei, Anhui, China.
+- *2019.09 - 2023.06*, B.E., [Hohai University](http://www.hhu.edu.cn/), Nanjing, Jiangsu, China.
 
 <span class='anchor' id='publications'></span>
 
 # 📃 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications/cvpr2025.jpg' alt="SmartEraser" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/srcflow2026.png' alt="SRC-Flow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SRC-Flow: Compact Semantic Representations Enable Normalizing Flows for Image Generation**](https://arxiv.org/abs/2605.18267)
+
+**Longtao Jiang**, Jianmin Bao, Zhendong Wang, Xin Tao, Zhihui Li, Xiaojun Chang
+
+<a class="pub-btn" href="https://arxiv.org/abs/2605.18267">arXiv</a> *Under review*
+
+- We identify a semantic-capacity mismatch between normalizing flows and high-dimensional pretrained vision features, and propose a Semantic Representation Compressor that compresses frozen RAE features into a compact 32-channel space for flow modeling.
+- With constant noise regularization, SRC-Flow achieves state-of-the-art gFID among normalizing flows on ImageNet 256×256 (1.65) and 512×512 (2.07).
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/publications/aaai2026.png' alt="Token Painter" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Token Painter: Training-Free Text-Guided Image Inpainting via Mask Autoregressive Models**](https://arxiv.org/abs/2509.23919)
+
+**Longtao Jiang**, Jie Huang, Mingfei Han, Lei Chen, Yongqiang Yu, Feng Zhao, Xiaojun Chang, Zhihui Li
+
+<a class="pub-btn" href="https://arxiv.org/abs/2509.23919">arXiv</a> <a class="pub-btn" href="https://ojs.aaai.org/index.php/AAAI/article/view/37456">Paper</a> <a class="pub-btn" href="https://github.com/longtaojiang/Token-Painter">Code</a>
+
+- We propose Token Painter, a training-free text-guided image inpainting method built on Mask AutoRegressive (MAR) models.
+- A Dual-Stream Encoder Information Fusion (DEIF) module fuses text and background information in the frequency domain to produce guidance tokens, and an Adaptive Decoder Attention Score Enhancing (ADAE) module strengthens attention on guidance and inpainting tokens.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications/cvpr2025_method.png' alt="SmartEraser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**SmartEraser: Remove Anything from Images using Masked-Region Guidance**](https://arxiv.org/abs/2501.08279)
 
-**Longtao Jiang**, Zhendong Wang, Jianming Bao, Wengang Zhou, Dong Chen, Houqiang Li
+**Longtao Jiang**, Zhendong Wang, Jianmin Bao, Wengang Zhou, Dong Chen, Houqiang Li
 
-<a class="pub-btn" href="https://arxiv.org/abs/2501.08279">arXiv</a>
+<a class="pub-btn" href="https://arxiv.org/abs/2501.08279">arXiv</a> <a class="pub-btn" href="https://longtaojiang.github.io/smarteraser.github.io/">Project</a>
 
 - We introduce SmartEraser, built with a new "removing" paradigm called Masked-Region Guidance.
 - The paradigm guides the model to accurately identify the object to be removed, preventing its regeneration in the output.
@@ -68,7 +112,7 @@ Xiangchen Yin, Zhenda Yu, **Longtao Jiang**, Xin Gao, Xiao Sun, Zhi Liu, Xun Yan
 
 **Longtao Jiang**, Min Wang, Zecheng Li, Yao Fang, Wengang Zhou, Houqiang Li
 
-<a class="pub-btn" href="https://arxiv.org/abs/2407.16394">arXiv</a>
+<a class="pub-btn" href="https://arxiv.org/abs/2407.16394">arXiv</a> <a class="pub-btn" href="https://github.com/longtaojiang/SEDS">Code</a>
 
 - We propose a novel representation framework called Semantically Enhanced Dual-Stream Encoder (SEDS), which aggregates Pose and RGB modalities to represent local and global information of sign language videos.
 - The aggregated clip-level video features are fed into the CLIP vision encoder for interaction, and matched with the word-level text features embedded using the CLIP text encoder.
@@ -80,34 +124,23 @@ Xiangchen Yin, Zhenda Yu, **Longtao Jiang**, Xin Gao, Xiao Sun, Zhi Liu, Xun Yan
 
 # 💻 Internships
 
+- *2025.09 - Now*, [Kling AI Research, Kuaishou Technology](https://www.kuaishou.com/), Beijing.
+- *2024.08 - 2025.02*, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing.
 - *2023.01 - 2023.06*, [Alibaba, Quark Search Department](https://ali-home.alibaba.com/about-alibaba-businesses-1496656660737818624), Hangzhou.
-
-<span class='anchor' id='projects'></span>
-
-# 🔍 Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.01 - 2023.06</div><img src='images/projects/kuake.png' alt="Quark" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Pre-Training of Web Page Understanding Based on Document Multimodal Large Language Model**
-
-In recent years, a series of document pre-training models represented by Microsoft LayoutLM have achieved significant results in document understanding tasks. The Quark Vertical Innovation Team is responsible for document multimodal understanding of library-type documents and web-based documents. Web-based document understanding includes layout classification, page experience, semantic segmentation, node extraction, etc.; library-type document understanding includes layout classification, layout experience, domain categories, title extraction, etc. The two are very similar in multimodal model structure and downstream tasks.
-
-</div>
-</div>
 
 <span class='anchor' id='academic-services'></span>
 
 # 📝 Academic Services
 
-- Conference on Computer Vision and Pattern Recognition (CVPR) 2025, Reviewer
-- ACM International Conference on Multimedia (ACM MM) 2024, Reviewer
-- Conference on Neural Information Processing Systems (NeurIPS) 2024, Reviewer
+I serve as a reviewer for top-tier conferences and journals, including CVPR, ICLR, NeurIPS, AAAI, ACM MM, and IEEE TPAMI.
 
 <span class='anchor' id='honors'></span>
 
 # 🏅 Honors
 
+- *2026.06*, Outstanding Graduate of Anhui Province
+- *2026.06*, Outstanding Graduate of USTC
+- *2025.09*, National Scholarship for Graduate Students
 - *2024.12*, Huawei Scholarship from USTC
 - *2023.12*, First Class Master's Scholarship from USTC
 - *2023.09*, Outstanding Graduate of Hohai University (Top 1%)
@@ -116,11 +149,3 @@ In recent years, a series of document pre-training models represented by Microso
 - *2020.12*, Excellent Student Model in Hohai University
 - *2020.09*, National Scholarship for Undergraduate Student (Top 1%)
 - *2020.09*, The First Prize Scholarship in Hohai University
-
-<span class='anchor' id='competitions'></span>
-
-# 🏆 Competitions
-
-- *2022.12*, National Second Prize in the National College Student Electronic Design Competition
-- *2022.09*, National Third Prize in the Blue Bridge Cup Software Design Competition
-- *2021.09*, Third Prize in the National College Student Intelligent Car Competition
