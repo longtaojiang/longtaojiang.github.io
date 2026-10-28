@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Longtao Jiang"
-description              : "Master's student at Microsoft Key Laboratory of Multimedia Computing and Communication, School of Information Science and Technology, University of Science and Technology of China, focusing on computer visual perception research. "
+description              : "Ph.D. student in Computer Vision at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), supervised by Prof. Xiaojun Chang."
 repository               : "longtaojiang/longtaojiang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Longtao Jiang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Science and Technology of China"
-  location         : "Hefei, China"
+  bio              : "Ph.D. Student @ MBZUAI"
+  location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DRWVidUAAAAJ"
